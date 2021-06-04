@@ -1,0 +1,7 @@
+const SEARCH_TYPE = 'SEARCH';
+const LOADING_TYPE = 'LOADING'
+
+export {
+    SEARCH_TYPE,
+    LOADING_TYPE
+}
